@@ -1,4 +1,4 @@
-# Sistema de Leilão em Java
+# Sistema de Leilão em Java ☕👨‍⚖️
 
 Este é um projeto de um sistema de leilão implementado em Java. Ele permite gerenciar itens leiloados, clientes e lances durante um leilão.
 
